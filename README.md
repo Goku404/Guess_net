@@ -8,10 +8,8 @@
 
 > Video available for download. 
 
-
-
-https://user-images.githubusercontent.com/62494702/133782657-0767c89d-28f3-42b9-bed5-629d0d5ee6bf.mp4
++ [项目视频预览](https://www.bilibili.com/video/BV1ov411w7Md/ "UDP编程实操 - Linux平台下的猜数字游戏 Guess_Number_Game" )
 
 
 
-![sp20210917_201352_452](https://user-images.githubusercontent.com/62494702/133781256-c5782b08-4216-4bed-9693-bb151c10a6ae.png)
+![界面预览](https://cdn.jsdelivr.net/gh/Tan35/ImgHosting/Tan35-PIC/PzoeQ2.png)
