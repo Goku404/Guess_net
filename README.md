@@ -6,5 +6,8 @@ Guess_number_game
 代码详解部分暂定。。。。
 
 
-https://user-images.githubusercontent.com/62494702/133779633-2d8ed30f-455b-4fe8-a9b0-eff27b2e587a.mp4
+
+
+
+https://user-images.githubusercontent.com/62494702/133779768-5e4255ff-0fe9-4e78-9fa1-1ddfff2d6b50.mp4
 
