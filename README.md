@@ -4,3 +4,7 @@
 2、可多个客户端与服务端通信进行竞猜，与服务端商议应用层网络协议(如：数据格式及传输等)
 Guess_number_game
 代码详解部分暂定。。。。
+
+
+https://user-images.githubusercontent.com/62494702/133779633-2d8ed30f-455b-4fe8-a9b0-eff27b2e587a.mp4
+
