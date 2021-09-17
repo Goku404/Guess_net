@@ -8,7 +8,5 @@ Guess_number_game
 视频部分要下载。。。。。。
 
 
-
-
-https://user-images.githubusercontent.com/62494702/133779768-5e4255ff-0fe9-4e78-9fa1-1ddfff2d6b50.mp4
+https://user-images.githubusercontent.com/62494702/133780748-e58ba379-25b3-4b56-ab28-9719f31538b9.mp4
 
